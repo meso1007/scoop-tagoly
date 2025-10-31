@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "description": "Smart CLI tool to assist with Git commits (Tagoly)",
+    "homepage": "https://github.com/meso1007/tagoly",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/meso1007/tagoly/releases/download/v1.0.0/tagoly-windows-amd64.exe",
+            "hash": "210ba90bade9cde48684825523799ed54caa1b5a9c74c25538b07009354cdb92"
+        }
+    },
+    "bin": "tagoly-windows-amd64.exe"
+}
